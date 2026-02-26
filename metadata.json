@@ -1,0 +1,5 @@
+{
+  "name": "Doctor Food",
+  "description": "AI-powered food analyzer and calorie counter",
+  "requestFramePermissions": ["camera"]
+}
